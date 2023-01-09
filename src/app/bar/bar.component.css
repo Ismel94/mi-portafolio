@@ -1,0 +1,43 @@
+/*.toolbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  background-color: teal;
+  color: white;
+  font-weight: 600;
+}*/
+
+#toolbarTop{
+  background-color: teal;
+}
+
+  .toolbar img {
+    margin: 0 16px;
+  }
+
+  .toolbar #twitter-logo {
+    height: 40px;
+    margin: 0 8px;
+  }
+
+  .toolbar #youtube-logo {
+    height: 40px;
+    margin: 0 16px;
+  }
+  .photo-perfil{
+    width:30px;
+    height:30px;
+    margin-right: 1%;
+    border-radius:150px;
+}
+.example-spacer {
+  flex : 1  1 auto;
+  color: aqua;
+}
+#wa{
+  color: rgb(18, 245, 67);
+}

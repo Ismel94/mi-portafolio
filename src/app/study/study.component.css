@@ -1,0 +1,22 @@
+.photo-university{
+    width: 100px;
+    height: 100px;
+    border-radius: 150px;
+  }
+  .study-card{
+    background-color: teal;
+  }
+  
+  #text-card-study{
+    margin-top: 1pt;
+  }
+  #caja1 {
+    width: 700pt;
+  }
+  #grid-list-study{
+    height: -200px;
+  }
+  #tile-imagen {
+    background-color: blue;
+    width: 10pt;
+  }
